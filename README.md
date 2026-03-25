@@ -5,7 +5,7 @@
 <h3 align="center">I am a web, mobile app & Real-time firebase Developer based in Pakistan.</h3>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=umar-raza&icon=5&color=0)](https://visitcount.itsvg.in)
+[(https://visitcount.itsvg.in/api?id=umar-raza&icon=5&color=0)](https://visitcount.itsvg.in)]
 
 # 💫 About Me:
 
